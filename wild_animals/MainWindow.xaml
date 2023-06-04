@@ -1,0 +1,33 @@
+﻿<Window x:Class="wild_animals.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wild_animals"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox>
+            <ListBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Pictures\elephant.jpeg" Height="160" Width="296"/>
+                    <TextBlock Text="У них массивное удлиненное тело, толстые прямые ноги и тонкий хвост с опушенным кончиком. В высоту слоны достигают 2-5,5 м, а их вес колеблется от 2 до 12 тонн. Окрас животных имеет все оттенки серого, бывает и бурой или коричневатой. В редких случаях встречаются слоны-альбиносы, и белых великанов особо почитают в буддистских монастырях." TextWrapping="Wrap" Width="472"/>
+                </StackPanel>
+            </ListBoxItem>
+            <ListBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Pictures\giraffe.jpg" Height="160" Width="296"/>
+                    <TextBlock Text="Жираф
+Жираф
+Это уникальное животное, которое невозможно спутать ни с одним другим животным. Жирафа выдает пятнистое тело, а также небольшая голова, возвышающаяся на несравнимо длинной шее. Кроме этого, у жирафа крепкие и также высокие ноги." TextWrapping="Wrap" Width="472"/>
+                </StackPanel>
+            </ListBoxItem>
+            <ListBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Pictures\tiger.jpg" Height="160" Width="296"/>
+                    <TextBlock Text="Тигры относятся к категории хищных млекопитающих, представляющих весьма многочисленное семейство «кошачьи», являясь при этом типичным представителем рода «Пантеры» из подсемейства «Большие кошки». Слово «тигр», в переводе с греческого языка означает «Острый и быстрый»." TextWrapping="Wrap" Width="472"/>
+                </StackPanel>
+            </ListBoxItem>
+        </ListBox>
+    </Grid>
+</Window>

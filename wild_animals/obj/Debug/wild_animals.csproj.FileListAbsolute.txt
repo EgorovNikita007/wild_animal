@@ -1,0 +1,15 @@
+C:\Users\eae30\source\repos\wild_animals\wild_animals\bin\Debug\wild_animals.exe.config
+C:\Users\eae30\source\repos\wild_animals\wild_animals\bin\Debug\wild_animals.exe
+C:\Users\eae30\source\repos\wild_animals\wild_animals\bin\Debug\wild_animals.pdb
+C:\Users\eae30\source\repos\wild_animals\wild_animals\obj\Debug\wild_animals.csproj.AssemblyReference.cache
+C:\Users\eae30\source\repos\wild_animals\wild_animals\obj\Debug\MainWindow.g.cs
+C:\Users\eae30\source\repos\wild_animals\wild_animals\obj\Debug\App.g.cs
+C:\Users\eae30\source\repos\wild_animals\wild_animals\obj\Debug\wild_animals_MarkupCompile.cache
+C:\Users\eae30\source\repos\wild_animals\wild_animals\obj\Debug\wild_animals_MarkupCompile.lref
+C:\Users\eae30\source\repos\wild_animals\wild_animals\obj\Debug\MainWindow.baml
+C:\Users\eae30\source\repos\wild_animals\wild_animals\obj\Debug\wild_animals.g.resources
+C:\Users\eae30\source\repos\wild_animals\wild_animals\obj\Debug\wild_animals.Properties.Resources.resources
+C:\Users\eae30\source\repos\wild_animals\wild_animals\obj\Debug\wild_animals.csproj.GenerateResource.cache
+C:\Users\eae30\source\repos\wild_animals\wild_animals\obj\Debug\wild_animals.csproj.CoreCompileInputs.cache
+C:\Users\eae30\source\repos\wild_animals\wild_animals\obj\Debug\wild_animals.exe
+C:\Users\eae30\source\repos\wild_animals\wild_animals\obj\Debug\wild_animals.pdb
